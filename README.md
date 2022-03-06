@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Quicksilver</h1>
 <h3 align="center">A guy from India.</h3>
 ## 🙋‍♂️ About Me
-- 🔭 My last project **[My Website](https://discordwebsite.abhinav-singhs2.repl.co/)**
+- 🔭You can see my last project **[here](https://discordwebsite.abhinav-singhs2.repl.co/)**
 
 - 🌱 I’m currently learning **Web Devlopment**
 
