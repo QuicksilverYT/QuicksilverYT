@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Devlopment**
 
-- You can check my Portfolio **[here](https://itzQuicksilver.abhinav-singhs2.repl.co)**
+- 📜 You can check my Portfolio **[here](https://itzQuicksilver.abhinav-singhs2.repl.co)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
