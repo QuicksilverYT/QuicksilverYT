@@ -53,7 +53,7 @@
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/QuicksilverYT/QuicksilverYT/9ad07e3be321ce717d3f26cd3b20e3fc80428cf7/IMG/DevIos01-contribution.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/Devlos01/Devlos01/9ad07e3be321ce717d3f26cd3b20e3fc80428cf7/IMG/DevIos01-contribution.svg" alt="snake"></center>
 </p>
   
   
