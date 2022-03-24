@@ -59,7 +59,6 @@
   
 <br/>
 <br/>
-## Check Out My Bot **[Here](https://top.gg/api/widget/935437094313144340.svg)(https://top.gg/bot/935437094313144340)**
 
 ## Connect with me:
 <p align="left">
