@@ -59,6 +59,8 @@
   <a href="https://github.com/SubhamRaonair/github-readme-activity-graph"><img alt="QuicksilverYT's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=QuicksilverYT&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
+## Check Out My Bot :
+[![Discord Bots](https://top.gg/api/widget/935437094313144340.svg)(https://top.gg/bot/935437094313144340)
 ## Connect with me:
 <p align="left">
 /></a>
