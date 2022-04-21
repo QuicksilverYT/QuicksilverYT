@@ -46,7 +46,7 @@
 </p>
 ## 📊 My Github Stats
   <br/>
-    <a href="https://github.com/QuicksilverYT/Github-Readme-Stats"><img alt="QuicksilverYT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=QuicksilverYT&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/SubhamRaoniar28/Github-Readme-Stats"><img alt="QuicksilverYT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=QuicksilverYT&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="QuicksilverYT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuicksilverYT&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
   
